@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  text-decoration: underline;
+}
+
+.green-text {
+  color:green;
+}
+
+.red-text {
+  color: red;
+}
+
+nav {
+  padding: 20px;
+  background-color: black;
+}
+
+nav a{
+  padding:10px;
+  margin: 10px;
+  color: gold;
+}
+
+li {
+  text-align: left;
+}
